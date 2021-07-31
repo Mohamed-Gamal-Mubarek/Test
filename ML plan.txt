@@ -1,0 +1,50 @@
+هشام عاصم playlists
+
+1 intruduction ---> مقدمة كدة عن الماشين ليرننج (اختياري)
+https://www.youtube.com/playlist?list=PL6-3IRz2XF5Vf1RAHyBo4tRzT8lEavPhR
+
+2 Regression
+https://www.youtube.com/playlist?list=PL6-3IRz2XF5UJE2PbY7UU4SHi7UpV1mXo
+
+3 Python 
+https://www.youtube.com/playlist?list=PL6-3IRz2XF5UM-FWfQeF1_YhMMa12Eg3s
+
+4 Classification & Logistic Regression
+https://www.youtube.com/playlist?list=PL6-3IRz2XF5Uq7PkI_PWOm_DLC2CFvSzU
+
+5 Neural Network الشبكات العصبية
+https://www.youtube.com/playlist?list=PL6-3IRz2XF5UX-Yi32r925nsgW-3GrnSa
+
+6 SVM نظام الدعم الألي
+https://www.youtube.com/playlist?list=PL6-3IRz2XF5U98PPtkc34sg7EEGC34WRs
+
+7 Unsupervised ML
+https://www.youtube.com/playlist?list=PL6-3IRz2XF5VEygzpmG1GZgI8l1xwPDBP
+
+8 important subjects in ML مواضيع هامة
+https://www.youtube.com/playlist?list=PL6-3IRz2XF5UnONA8-ENhR0NE04mIllqB
+
+9 New Techniques in ML مواضيع جديدة وافكار في ماشين
+https://www.youtube.com/playlist?list=PL6-3IRz2XF5XJKEXITqCNQN8209q3qlrL
+
+10 Sklearn Library
+https://www.youtube.com/playlist?list=PL6-3IRz2XF5X_9JeJh1xeciAbkijvc09k
+
+11 TensorFlow & Keras Library
+https://www.youtube.com/playlist?list=PL6-3IRz2XF5VbuU2T0gS_mFhCpKmLxvCP
+
+12 Kaggle & Github
+https://www.youtube.com/playlist?list=PL6-3IRz2XF5XA13ZqfacovmyOLjYwwhMt
+
+13 ML Helper Tutorials (اختياري)
+https://www.youtube.com/playlist?list=PL6-3IRz2XF5VdA0sd-nLM0LMzhfivfwmu
+-------------------------------------------
+
+Kaggle كورس
+
+هنشترك من هنا 
+https://www.kaggle.com/thirty-days-of-ml?fbclid=IwAR3du-WkJZIRPtRH2f5LhLRaHeY1adVi8tRevEQ7BduGAoEkT3y-GeDmhZU
+ندوس علي sign up for challange
+
+الكورس هيبدا يوم 2-8 
+هيبقي كل يوم لمدة 30 يوم هيبقي ساعة واحدة ف اليوم يعني نقدر نذاكر حاجة معاة 
